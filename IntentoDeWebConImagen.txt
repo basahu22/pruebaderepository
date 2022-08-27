@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<style="background-color:tomato;"> <style>
+	<head>
+		<meta name="vierport" content="width=device-width, initial-scale=1.0">
+	</head>
+	<body>
+
+		<h2>Setting the Vierport</h2>
+		<p>This example does not really do anything, other than showing you how to add the viewport meta alement.</p>
+	
+
+<h2>Responsive Image</h2>
+<p>Aqui se puede admirar a un lindo gatito siendo un gatito</p>
+
+<img src="https://okdiario.com/img/2022/01/21/5-rasgos-que-definen-la-personalidad-de-los-gatos.jpg" style"width:100%;"
+</body>
+</html>
